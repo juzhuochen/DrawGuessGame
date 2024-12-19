@@ -1,0 +1,14 @@
+/workspace/assignment/server/bin/Debug/net8.0/server
+/workspace/assignment/server/bin/Debug/net8.0/server.deps.json
+/workspace/assignment/server/bin/Debug/net8.0/server.runtimeconfig.json
+/workspace/assignment/server/bin/Debug/net8.0/server.dll
+/workspace/assignment/server/bin/Debug/net8.0/server.pdb
+/workspace/assignment/server/obj/Debug/net8.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/assignment/server/obj/Debug/net8.0/server.AssemblyInfoInputs.cache
+/workspace/assignment/server/obj/Debug/net8.0/server.AssemblyInfo.cs
+/workspace/assignment/server/obj/Debug/net8.0/server.csproj.CoreCompileInputs.cache
+/workspace/assignment/server/obj/Debug/net8.0/server.dll
+/workspace/assignment/server/obj/Debug/net8.0/refint/server.dll
+/workspace/assignment/server/obj/Debug/net8.0/server.pdb
+/workspace/assignment/server/obj/Debug/net8.0/server.genruntimeconfig.cache
+/workspace/assignment/server/obj/Debug/net8.0/ref/server.dll
