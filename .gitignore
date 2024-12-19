@@ -1,0 +1,26 @@
+# 忽略 bin 和 obj 文件夹
+/bin/
+/obj/
+
+# 忽略 Visual Studio 配置文件
+.vscode/
+/.idea/
+
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 忽略编译生成的 DLL、PDB、EXE 文件
+*.dll
+*.pdb
+*.exe
+*.out
+
+# 忽略 NuGet 包缓存
+project.assets.json
+project.nuget.cache
+
+# 忽略其他临时和缓存文件
+*.cache
+*.suo
+*.user
